@@ -1,0 +1,9 @@
+{
+  "name": "@felixia/baileys-premium",
+  "version": "2.0.0",
+  "description": "𝐅𝐄𝐋𝐈𝐂𝐈𝐀 𝐗 𝐂𝐑𝐀𝐒𝐇 - Premium Custom Baileys",
+  "main": "src/index.js",
+  "author": "Felixius",
+  "license": "ISC",
+  "keywords": ["felicia", "baileys", "premium", "whatsapp", "bot"]
+}
